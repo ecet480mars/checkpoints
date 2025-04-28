@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/na867/checkpoints/wk5/yahboom_ws/devel -DCMAKE_INSTALL_PREFIX=/home/na867/checkpoints/wk5/yahboom_ws/install -G Unix Makefiles
